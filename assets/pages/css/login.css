@@ -14,10 +14,12 @@ Login page
 .login .logo h3{
   color: #777;
   margin-bottom: 0;
+  margin-top: 5px;
 }
 .login .logo h4{
   color: #777;
-  margin-top: 10px;
+  margin-bottom: 0;
+  margin-top: 20px;
 }
 .login .content {
   background-color: white;
