@@ -1,0 +1,8 @@
+admin-admin
+poli-poli
+ranap-ranap
+pendaftaran-pendaftaran
+pembayaran-pembayaran
+lab-lab
+radiologi-radiologi
+apotek-apotek

@@ -1,0 +1,23 @@
+.tab-content{
+	background: #fff;
+	margin-bottom: 50px;
+}
+.btn-action{
+	margin-bottom: 20px;
+	margin-top: -10px;
+}
+.btn-xs{
+	padding: 3px 8px;
+}
+.page-title h3{
+	padding: 0;
+	margin: 0;
+	font-size:18px;
+}
+table{
+	font-size: 15px;
+}
+tr th{
+	background: #4183D7;
+	color: #fff;
+}
